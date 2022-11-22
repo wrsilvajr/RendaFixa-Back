@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendaFixa.Domain", "RendaFixa.Domain\RendaFixa.Domain.csproj", "{F1040FE8-8AF3-4868-8007-A3960F79ABEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendaFixa.Test", "test\RendaFixa.Test\RendaFixa.Test.csproj", "{8873792C-1A12-4D33-BADB-74DE05A3C3F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendaFixa.Service", "RendaFixa.Service\RendaFixa.Service.csproj", "{20BDFD6F-5339-4D0A-9F09-1B3A34FA6C54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RendaFixa.WebApi", "RendaFixa.WebApi\RendaFixa.WebApi.csproj", "{6787323C-A1DE-4657-B460-7C57F39DE2F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1040FE8-8AF3-4868-8007-A3960F79ABEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1040FE8-8AF3-4868-8007-A3960F79ABEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1040FE8-8AF3-4868-8007-A3960F79ABEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1040FE8-8AF3-4868-8007-A3960F79ABEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8873792C-1A12-4D33-BADB-74DE05A3C3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8873792C-1A12-4D33-BADB-74DE05A3C3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8873792C-1A12-4D33-BADB-74DE05A3C3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8873792C-1A12-4D33-BADB-74DE05A3C3F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20BDFD6F-5339-4D0A-9F09-1B3A34FA6C54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20BDFD6F-5339-4D0A-9F09-1B3A34FA6C54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20BDFD6F-5339-4D0A-9F09-1B3A34FA6C54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20BDFD6F-5339-4D0A-9F09-1B3A34FA6C54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6787323C-A1DE-4657-B460-7C57F39DE2F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6787323C-A1DE-4657-B460-7C57F39DE2F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6787323C-A1DE-4657-B460-7C57F39DE2F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6787323C-A1DE-4657-B460-7C57F39DE2F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58BA1A48-1AA4-4A85-8572-D93E439627D1}
+	EndGlobalSection
+EndGlobal
